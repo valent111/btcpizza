@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7962834768659af7326ab7a3d067b320",
+    "revision": "02e924ffe1e102381d40942984203df0",
     "url": "/btcpizza/index.html"
   },
   {
-    "revision": "04e1c220a8ef4ca419e6",
+    "revision": "a54ad46def4f31fd1174",
     "url": "/btcpizza/static/css/main.5fca151b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/btcpizza/static/js/2.3313c4cc.chunk.js"
   },
   {
-    "revision": "04e1c220a8ef4ca419e6",
-    "url": "/btcpizza/static/js/main.4f144f9f.chunk.js"
+    "revision": "a54ad46def4f31fd1174",
+    "url": "/btcpizza/static/js/main.a4a15a5c.chunk.js"
   },
   {
     "revision": "3ffec2c429746d262b50",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/btcpizza/static/css/main.5fca151b.chunk.css",
-    "main.js": "/btcpizza/static/js/main.4f144f9f.chunk.js",
-    "main.js.map": "/btcpizza/static/js/main.4f144f9f.chunk.js.map",
+    "main.js": "/btcpizza/static/js/main.a4a15a5c.chunk.js",
+    "main.js.map": "/btcpizza/static/js/main.a4a15a5c.chunk.js.map",
     "runtime-main.js": "/btcpizza/static/js/runtime-main.28585434.js",
     "runtime-main.js.map": "/btcpizza/static/js/runtime-main.28585434.js.map",
     "static/js/2.3313c4cc.chunk.js": "/btcpizza/static/js/2.3313c4cc.chunk.js",
     "static/js/2.3313c4cc.chunk.js.map": "/btcpizza/static/js/2.3313c4cc.chunk.js.map",
     "index.html": "/btcpizza/index.html",
-    "precache-manifest.4c005feac69cf915848e8a392a9e7efb.js": "/btcpizza/precache-manifest.4c005feac69cf915848e8a392a9e7efb.js",
+    "precache-manifest.81024cb43fad32b61c46f4409596342c.js": "/btcpizza/precache-manifest.81024cb43fad32b61c46f4409596342c.js",
     "service-worker.js": "/btcpizza/service-worker.js",
     "static/css/main.5fca151b.chunk.css.map": "/btcpizza/static/css/main.5fca151b.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.28585434.js",
     "static/js/2.3313c4cc.chunk.js",
     "static/css/main.5fca151b.chunk.css",
-    "static/js/main.4f144f9f.chunk.js"
+    "static/js/main.a4a15a5c.chunk.js"
   ]
 }
