@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/btcpizza/static/css/main.5fca151b.chunk.css",
+    "main.js": "/btcpizza/static/js/main.4f144f9f.chunk.js",
+    "main.js.map": "/btcpizza/static/js/main.4f144f9f.chunk.js.map",
+    "runtime-main.js": "/btcpizza/static/js/runtime-main.28585434.js",
+    "runtime-main.js.map": "/btcpizza/static/js/runtime-main.28585434.js.map",
+    "static/js/2.3313c4cc.chunk.js": "/btcpizza/static/js/2.3313c4cc.chunk.js",
+    "static/js/2.3313c4cc.chunk.js.map": "/btcpizza/static/js/2.3313c4cc.chunk.js.map",
+    "index.html": "/btcpizza/index.html",
+    "precache-manifest.4c005feac69cf915848e8a392a9e7efb.js": "/btcpizza/precache-manifest.4c005feac69cf915848e8a392a9e7efb.js",
+    "service-worker.js": "/btcpizza/service-worker.js",
+    "static/css/main.5fca151b.chunk.css.map": "/btcpizza/static/css/main.5fca151b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28585434.js",
+    "static/js/2.3313c4cc.chunk.js",
+    "static/css/main.5fca151b.chunk.css",
+    "static/js/main.4f144f9f.chunk.js"
+  ]
+}
